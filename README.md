@@ -88,5 +88,5 @@ I build performance-focused websites, admin panels, and interactive UI experienc
 
 ## 📫 Contact
 
-- LinkedIn: (add link)  
-- Email: (add email)
+- LinkedIn: www.linkedin.com/in/deepanshu-jain-a30518253/  
+- Email: jain10666@gmail.com
