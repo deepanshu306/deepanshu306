@@ -2,20 +2,19 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+This portfolio site does not ship versioned releases. The live deployment on
+the `main` branch is the only supported version for security updates.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| Version               | Supported |
+| --------------------- | --------- |
+| main (live deployment)| Yes       |
+| Archived snapshots    | No        |
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Please email security findings to `jain10666@gmail.com` with a clear subject
+like "Security report". Include steps to reproduce, the impacted area, and any
+logs or screenshots that help explain the issue. I aim to acknowledge reports
+within three business days and will coordinate remediation timelines directly
+with you. Please avoid filing public issues for sensitive reports until
+resolved.
